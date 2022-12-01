@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Practica3a</string>
     <string name="introduzca_numero">Introduzca un Numero</string>
     <string name="yourTextHere">Ingrese su texto aqui</string>
@@ -7,4 +7,10 @@
     <string name="manana">Mañana</string>
     <string name="tarde">Tarde</string>
     <string name="nocturno">Nocturno</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="mySwitch">Switch</string>
+    <string name="myToggleButton">ToggleButton</string>
+    <string name="myRadioButton2">RadioButton2</string>
+    <string name="myRadioButton1" tools:ignore="Typos">RadioButton1</string>
+    <string name="myCheckBox">CheckBox</string>
 </resources>
