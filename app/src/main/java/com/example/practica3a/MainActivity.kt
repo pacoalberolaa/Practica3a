@@ -34,6 +34,12 @@ class MainActivity : AppCompatActivity() {
                 ).show()
 
                 ocultarTeclado(it)
+
+                binding.floatingActionButton.setOnClickListener {
+                    Toast.makeText(applicationContext, "Pulsamos el botón flotante",
+                        Toast.LENGTH_LONG).show()
+                }
+
             }
         }
     }
@@ -45,4 +51,6 @@ class MainActivity : AppCompatActivity() {
             inputMethodManager.hideSoftInputFromWindow(view.windowToken, 0)
         }
     }
+
+
 }

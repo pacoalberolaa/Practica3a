@@ -3,4 +3,8 @@
     <string name="introduzca_numero">Introduzca un Numero</string>
     <string name="yourTextHere">Ingrese su texto aqui</string>
     <string name="myButton">Boton</string>
+    <string name="recordar">Recordar</string>
+    <string name="manana">Mañana</string>
+    <string name="tarde">Tarde</string>
+    <string name="nocturno">Nocturno</string>
 </resources>
