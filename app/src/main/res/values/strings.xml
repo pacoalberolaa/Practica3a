@@ -13,4 +13,8 @@
     <string name="myRadioButton2">RadioButton2</string>
     <string name="myRadioButton1" tools:ignore="Typos">RadioButton1</string>
     <string name="myCheckBox">CheckBox</string>
+    <string name="snackbar">SnackBar</string>
+    <string name="introduzca_su_nombre">Introduzca su nombre</string>
+    <string name="boton_mostrar">Mostrar</string>
+    <string name="snackbar_accion">SnackBar Accion</string>
 </resources>
